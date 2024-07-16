@@ -1,2 +1,8 @@
-def add (a: float, b: float) -> float:
-  return a + b
+#!/usr/bin/env python3
+""" Module documentation """
+
+
+def add(a: float, b: float) -> float:
+    """Func doc"""
+    return a + b
+

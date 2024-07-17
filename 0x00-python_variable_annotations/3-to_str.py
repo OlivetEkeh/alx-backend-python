@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """ Module documentation """
+import math
 
 
-def concat(str1: str, str2: str) -> str:
+def to_str(n: float) -> str:
     """Func doc"""
-    return str1 + str2
+    return str(n)
